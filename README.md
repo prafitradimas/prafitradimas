@@ -1,9 +1,9 @@
 <div style="display: grid; grid-template-columns: auto auto; justify-content: space-evenly;">
   <a href="https://github.com/prafitradimas/">
-    <img style="height: 210px;" src="https://github-readme-stats-eight-theta.vercel.app/api?username=prafitradimas&show_icons=true&theme=vision-friendly-dark&custom_title=prafitradimas%20GitHub%20Stats&count_private=true&include_all_commits=true&rank_icon=github">
+    <img style="" src="https://github-readme-stats-eight-theta.vercel.app/api?username=prafitradimas&show_icons=true&theme=vision-friendly-dark&custom_title=prafitradimas%20GitHub%20Stats&count_private=true&include_all_commits=true&rank_icon=github">
   </a>
   <a href="https://github.com/prafitradimas/">
-    <img style="height: 210px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prafitradimas&layout=compact&theme=vision-friendly-dark&langs_count=10&size_weight=0.5&count_weight=0.5&count_private=true">
+    <img style="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prafitradimas&layout=compact&theme=vision-friendly-dark&langs_count=10&size_weight=0.5&count_weight=0.5&count_private=true">
   </a>
 </div>
 
