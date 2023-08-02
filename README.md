@@ -1,7 +1,7 @@
 <div style="width: 100%; display: grid; grid-template-columns: auto auto; justify-content: space-evenly; align-content: top;">
   <a href="https://github.com/prafitradimas">
-    <img style="" src="https://github-readme-stats-eight-theta.vercel.app/api?username=prafitradimas&show_icons=true&rank_icon=github&theme=vision-friendly-dark&count_private=true&include_all_commits=true&cache_seconds=14400">
-    <img style="height: 195px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prafitradimas&layout=compact&theme=vision-friendly-dark&langs_count=10&size_weight=0.5&count_weight=0.5&count_private=true&cache_seconds=14400">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=prafitradimas&show_icons=true&rank_icon=github&theme=vision-friendly-dark&count_private=true&include_all_commits=true&cache_seconds=14400">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prafitradimas&layout=compact&theme=vision-friendly-dark&langs_count=10&size_weight=0.5&count_weight=0.5&count_private=true&cache_seconds=14400">
   </a>
 </div>
 
